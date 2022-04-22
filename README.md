@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Walay isog nga inday satong tuskig nga hinapay :>
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=samankaaa4U&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=samankaaa4U&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=radical)

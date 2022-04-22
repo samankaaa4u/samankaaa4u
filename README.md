@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*cyu5eDsxSX3zbtnOKgvmww.gif)
+![MasterHead](https://wallpaperaccess.com/full/869923.gif)
 <h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
 <h3 align="center">Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">

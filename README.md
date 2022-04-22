@@ -1,7 +1,8 @@
 ![MasterHead](https://wallpaperaccess.com/full/869923.gif)
 <h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
 <h3 align="center">Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanakaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samanakaaa4u" /> </p>
 
 - 🔭 I’m currently working on **Sonja's Hemp Shack, Sonja's Health Hub and KONIKO INC.**

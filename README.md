@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/vTs6CByj/Mob-Psycho-100.gif)
+[![Mob.gif](https://i.postimg.cc/mkRF9Tfq/Mob.gif)](https://postimg.cc/JD6nVVhc)
 <h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
 <h3 align="center">Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">

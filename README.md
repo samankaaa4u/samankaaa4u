@@ -1,4 +1,4 @@
-<img align="center" width="1080" height ="1920" src="https://wallpaperaccess.com/full/2471374.gif">
+<img align="center" width="1440" height ="900" src="https://wallpaperaccess.com/full/2471374.gif">
 <h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
 <h3 align="center">Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">

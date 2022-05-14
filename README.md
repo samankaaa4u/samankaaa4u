@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/yQvnZyr/273829908-991137094912632-8044927376142199836-n.gif)
+![MasterHead](https://wallpaperaccess.com/full/2471374.gif)
 <h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
 <h3 align="center">Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">

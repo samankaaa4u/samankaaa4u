@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Myself, skills or any tech related stuff.**
 
-- ⚡ Fun fact: **Walay isog nga inday satong tuskig nga hinapay :>**
+- ⚡ Fun fact: **Walay gahi nga inday satong tuskig nga hinapay :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

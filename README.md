@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: **https://sam-senolay-portfolio-bokoko33.vercel.app/**
 
-- 🌱 I’m currently learning **Python and DBMS.**
+- 🌱 I’m currently learning **Python, DBMS, HTML, CSS, JAVASCRIPT, THREE.JS AND BLENDER.**
 
 - 💬 Ask me about **Myself, skills or any tech related stuff.**
 

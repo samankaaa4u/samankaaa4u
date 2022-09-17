@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sonja's Hemp Shack, Sonja's Health Hub and KONIKO INC.**
 
-- 📄 Know about my experiences: **https://samsenolaysportfolio.netlify.app/**
+- 📄 Know about my experiences: **https://sam-senolay-portfolio-bokoko33.vercel.app/**
 
 - 🌱 I’m currently learning **Python and DBMS.**
 

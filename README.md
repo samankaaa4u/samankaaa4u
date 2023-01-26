@@ -1,6 +1,6 @@
 <img align="center" style="height:600px; width:1000px;" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
 <h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
-<h3 align="center">Computer Engineer | Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
+<h3 align="center">Computer Technician | Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanakaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samanakaaa4u" /> </p>

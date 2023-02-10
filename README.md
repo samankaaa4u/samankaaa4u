@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanakaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samanakaaa4u" /> </p>
 
-- 🔭 I’m currently working on **Sonja's Hemp Shack, Sonja's Health Hub and KONIKO INC.**
-
 - 📄 Know about my experiences: **https://sam-senolay-portfolio-bokoko33.vercel.app/**
 
-- 🌱 I’m currently learning **Python, DBMS, HTML, CSS, JAVASCRIPT, THREE.JS AND BLENDER.**
+- 🌱 I’m currently learning ** HTML, CSS, JAVASCRIPT, AND REACT.**
 
 - 💬 Ask me about **Myself, skills or any tech related stuff.**
 
-- ⚡ Fun fact: **Walay gahi nga inday satong tuskig nga hinapay :>**
+- ⚡ Fun fact: **You can't feel your tounge when you smile :> Oops gotcha I mean look at you how cute you are when you smile :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

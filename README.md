@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: **https://sam-senolay-portfolio-bokoko33.vercel.app/**
 
-- 🌱 I’m currently learning ** HTML, CSS, JAVASCRIPT, AND REACT.**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, AND REACT.**
 
 - 💬 Ask me about **Myself, skills or any tech related stuff.**
 

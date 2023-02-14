@@ -1,5 +1,5 @@
 <img align="center" style="width:1080px" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
-<h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
+<h1 align="center">Howdy? Sam Señolay 👋</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 

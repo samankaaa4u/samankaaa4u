@@ -1,5 +1,5 @@
 <img align="center" style="width:1080px" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
-<h1 align="center">Howdy? 👋, I'm Sam Señolay <br> Frontend Developer</h1>
+<h1 align="center">👋 Howdy?, I'm Sam Señolay <br><hr><br> Frontend Developer</h1>
 <h3 align="center">I'm an all-in-one, balancing the roles of tech-savvy student and dynamic entrepreneur with ease. I see myself as a game-changer, armed with a creative mind and a knack for adapting to any situation. I'm a sponge for knowledge, always looking to improve, and I'll go the extra mile to ensure my boss stays one step ahead of the competition.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samankaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samankaaa4u" /> </p>

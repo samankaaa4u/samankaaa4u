@@ -2,11 +2,12 @@
 <h1 align="center">Howdy? 👋, I'm Sam Señolay</h1>
 <h1 align="center">Frontend Developer</h1>
 <h3 align="center">I'm an all-in-one, balancing the roles of tech-savvy student and dynamic entrepreneur with ease. I see myself as a game-changer, armed with a creative mind and a knack for adapting to any situation. I'm a sponge for knowledge, always looking to improve, and I'll go the extra mile to ensure my boss stays one step ahead of the competition.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samankaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samankaaa4u" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samankaaa4u" alt="samankaaa4u" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, AND REACT**
 

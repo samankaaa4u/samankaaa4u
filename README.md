@@ -1,6 +1,6 @@
 <img align="center" style="width:1080px" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
 <h1 align="center">👋 Howdy?, I'm Sam Señolay <br><br> Frontend Developer</h1>
-<h3 align="center">I'm an all-in-one, balancing the roles of tech-savvy student and dynamic entrepreneur with ease. I see myself as a game-changer, armed with a creative mind and a knack for adapting to any situation. I'm a sponge for knowledge, always looking to improve, and I'll go the extra mile to ensure my boss stays one step ahead of the competition.</h3>
+<h3 align="center">As a tech-savvy student and dynamic entrepreneur, I possess a versatile skill set that translates into a competitive advantage for businesses. My proficiencies span hospitality management, gardening, web development, computer technology, virtual assistance, and marketing, ensuring adaptability and competence. I am presently pursuing a Bachelor's in Information Technology at King's Own Institute Australia, enhancing my expertise in this domain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanakaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samanakaaa4u" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **samsenolay35@gmail.com**
 
-- 📄 Know about my experiences [https://samankaaa4u.github.io/E-Portolfio/assets/Sam%20Se%C3%B1olay's%20Resume.pdf](https://samankaaa4u.github.io/E-Portolfio/assets/Sam%20Se%C3%B1olay's%20Resume.pdf)
+- 📄 Know about my experiences [Click Here](https://samankaaa4u.github.io/E-Portolfio/assets/Sam%20Se%C3%B1olay's%20Resume.pdf)
 
 - ⚡ Fun fact **Why does crabs doesn't go to charity? Because they're shellfish.**
 

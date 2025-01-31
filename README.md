@@ -2,7 +2,19 @@
 <h1 align="center">👋 Howdy?, I'm Sam Señolay</h1>
 <h1 align="center">IT Provisioning Engineer | Frontend Developer | On-site Field IT Technician | STRA Manager</h1>
 <h3 align="center">
-I possess a versatile skill set that translates into a competitive advantage for businesses. My proficiencies span hospitality management, gardening, web development, computer technology, virtual assistance, and marketing, ensuring adaptability and competence. I am presently pursuing a Bachelor's in Information Technology at King's Own Institute Australia, enhancing my expertise in this domain.
+I possess a versatile skill set that translates into a competitive advantage for businesses. My proficiencies span:
+
+1. IT Provisioning Engineer
+2. Web Development.
+3. On-site Field IT Technician.
+4. STRA Management.
+5. Marketing
+6. Virtual Assistance. 
+7. Professional Cleaner.
+
+Ensuring adaptability and competence. I'm a sponge for knowledge always looking to improve above and beyond to ensure business is always one step ahead towards competitors.
+
+I am presently pursuing a Bachelor's in Information Technology at King's Own Institute Australia, enhancing my expertise in this domain.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanakaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samanakaaa4u" /> </p>

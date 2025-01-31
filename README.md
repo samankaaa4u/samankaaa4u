@@ -3,8 +3,7 @@
 <h1 align="center">IT Provisioning Engineer | Frontend Developer | On-site Field IT Technician | STRA Manager</h1>
 <h3 align="left">
 I possess a versatile skill set that translates into a competitive advantage for businesses. My proficiencies span:
-
-
+<br>
 1. IT Provisioning Engineer
 2. Web Development.
 3. On-site Field IT Technician.

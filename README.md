@@ -1,6 +1,6 @@
 <img align="center" style="width:1080px" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
 <h1 align="center">👋 Howdy?, I'm Sam Señolay</h1>
-<h1 align="center">IT Support Specialist | IT Technician | IT Operation | Desktop Support Engineer | Frontend Developer</h1>
+<h1 align="center">IT Provisioning Engineer | Frontend Developer | On-site Field IT Technician | STRA Manager</h1>
 <h3 align="center">
 I possess a versatile skill set that translates into a competitive advantage for businesses. My proficiencies span hospitality management, gardening, web development, computer technology, virtual assistance, and marketing, ensuring adaptability and competence. I am presently pursuing a Bachelor's in Information Technology at King's Own Institute Australia, enhancing my expertise in this domain.
 </h3>

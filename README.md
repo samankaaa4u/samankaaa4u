@@ -1,8 +1,9 @@
 <img align="center" style="width:1080px" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
 <h1 align="center">👋 Howdy?, I'm Sam Señolay</h1>
 <h1 align="center">IT Provisioning Engineer | Frontend Developer | On-site Field IT Technician | STRA Manager</h1>
-<h3 align="justify">
+<h3 align="left">
 I possess a versatile skill set that translates into a competitive advantage for businesses. My proficiencies span:
+
 
 1. IT Provisioning Engineer
 2. Web Development.

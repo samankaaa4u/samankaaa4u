@@ -3,6 +3,7 @@
 <h1 align="center">IT Provisioning Engineer | IT Technical Operation | Frontend Developer | On-site Field IT Technician | STRA Manager</h1>
 <h3 align="left">
 I'm Sam Señolay, an IT Support Specialist currently living in Brooklyn, NSW. I’ve built experience across IT support, system provisioning, network setup, and device management for both home users and businesses. I currently work at TechMedia as an IT Provisioning Engineer, where I’ve deployed DOOH (Digital Out of Home) systems for major clients like Westfield, Flight Centre, and Woolworths. I also run my own IT services business, supporting STRA hosts, healthcare providers, strata properties, and individual clients.
+
   
 My mission is to take the stress out of technology, keep people safe from cybercrime, and offer solutions at fair, honest rates. I focus especially on helping the elderly and those unfamiliar with tech—teaching them to use their devices confidently and securely, so they eventually don’t need help anymore.
   
@@ -14,13 +15,13 @@ My vision is to grow my business into the most trusted IT support service in Aus
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <div style = "background-color: black">
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, AND REACT**
+- 🌱 I’m currently learning **Building and Maintaing an IT Business in Australia**
 
 - 💬 Ask me about **Myself, skills or any tech related stuff.**
 
 - 📫 How to reach me **samsenolay35@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://samankaaa4u.github.io/E-Portolfio/assets/Sam%20Se%C3%B1olay's%20Resume.pdf)
+- 📄 Know about my experiences [Click Here](bettercallgeeks.com.au)
 
 - ⚡ Fun fact **Why does crabs doesn't go to charity? Because they're shellfish.**
 

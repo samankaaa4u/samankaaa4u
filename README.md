@@ -1,21 +1,13 @@
 <img align="center" style="width:1080px" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
 <h1 align="center">👋 Howdy?, I'm Sam Señolay</h1>
-<h1 align="center">IT Provisioning Engineer | Frontend Developer | On-site Field IT Technician | STRA Manager</h1>
+<h1 align="center">IT Provisioning Engineer | IT Technical Operation | Frontend Developer | On-site Field IT Technician | STRA Manager</h1>
 <h3 align="left">
-I possess a versatile skill set that translates into a competitive advantage for businesses. My proficiencies span:
+I'm Sam Señolay, an IT Support Specialist currently living in Brooklyn, NSW. I’ve built experience across IT support, system provisioning, network setup, and device management for both home users and businesses. I currently work at TechMedia as an IT Provisioning Engineer, where I’ve deployed DOOH (Digital Out of Home) systems for major clients like Westfield, Flight Centre, and Woolworths. I also run my own IT services business, supporting STRA hosts, healthcare providers, strata properties, and individual clients.
+  
+My mission is to take the stress out of technology, keep people safe from cybercrime, and offer solutions at fair, honest rates. I focus especially on helping the elderly and those unfamiliar with tech—teaching them to use their devices confidently and securely, so they eventually don’t need help anymore.
+  
+My vision is to grow my business into the most trusted IT support service in Australia—for both individuals and businesses—and one day take it global. I also enjoy building custom desktop PCs as a hobby. Outside of work, I’m into PC gaming, basketball, nature walks, swimming, and singing off-key just to keep the vibe light—even during work, there’s usually music playing and me reaching for notes that were never meant for human ears.
 
-
-1. IT Provisioning Engineer
-2. Web Development.
-3. On-site Field IT Technician.
-4. STRA Management.
-5. Marketing
-6. Virtual Assistance. 
-7. Professional Cleaner.
-
-Ensuring adaptability and competence. I'm a sponge for knowledge always looking to improve above and beyond to ensure business is always one step ahead towards competitors.
-
-I am presently pursuing a Bachelor's in Information Technology at King's Own Institute Australia, enhancing my expertise in this domain.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanakaaa4u&label=Profile%20views&color=0e75b6&style=flat" alt="samanakaaa4u" /> </p>

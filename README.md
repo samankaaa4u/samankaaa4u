@@ -4,6 +4,7 @@
 <h3 align="left">
 I'm Sam Señolay, an IT Support Specialist currently living in Brooklyn, NSW. I’ve built experience across IT support, system provisioning, network setup, and device management for both home users and businesses. I currently work at TechMedia as an IT Provisioning Engineer, where I’ve deployed DOOH (Digital Out of Home) systems for major clients like Westfield, Flight Centre, and Woolworths. I also run my own IT services business, supporting STRA hosts, healthcare providers, strata properties, and individual clients.
 
+<br>
   
 My mission is to take the stress out of technology, keep people safe from cybercrime, and offer solutions at fair, honest rates. I focus especially on helping the elderly and those unfamiliar with tech—teaching them to use their devices confidently and securely, so they eventually don’t need help anymore.
   
